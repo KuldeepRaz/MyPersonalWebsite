@@ -1,0 +1,175 @@
+html{
+      height:100%;
+      background:url("images/index.jpg") no-repeat center center fixed;
+                    -webkit-background-size:cover;
+                    -moz-background-size:cover;
+                    -o-background-size:cover;
+                    background-size: cover;
+                    
+    }
+
+h2{
+    color: #007D8F;
+     font-size:170%;
+    text-align:center; 
+  }
+body{
+     
+     font-family: Verdana, Geneva, Arial, sans-serif;
+     color: #FFF550; 
+     font-size:20px;  
+     text-decoration:none;
+     line-height:1.6em;
+    }
+
+p img{
+       
+       text-align:center;
+     } 
+.w{
+     color:white;
+   }
+.red{
+       color:#E43938;
+       font-style:bold;
+       text-align:center;
+    }
+
+#all{
+     width:1200px;
+     padding-top:    5px;        
+     padding-bottom: 5px; 
+     margin-left:  auto;        
+     margin-right: auto; 
+     background: rgba(0,0,0,0.2);
+    }
+
+
+#header{
+         
+         width:100%;
+         background: rgba(0,0,0,0.2);
+         margin-top:0px;
+         margin-bottom:10px;
+         text-align:center;
+         
+       
+       }
+
+
+.semi{
+      
+     display:block;
+      box-sizing:border-box;
+      
+      margin-top:20px;
+      margin-right:20px;
+      padding:8px;
+      width:100px;
+      max-width:200px;
+      background:rgba(0,125,143,0.2);
+      float:right;
+      border-radius:8px;
+      color:rgba(0,0,0,0.5);
+      text-decoration:none;
+      letter-spacing:1px;
+      transition:all 0.3s ease-out; 
+     }
+
+
+.semi : hover,
+.semi:focus,
+.semi:active{
+              background:#fff;
+              color:#007D8F;
+              transition:all 0.5s ease-in;
+            }
+
+#name{
+       
+     }
+.download{
+           text-align:center;
+         }
+#sayhello{
+         
+         background: rgba(0,0,0,0.2);
+         height:350px;
+      
+       
+        }
+#WalknTextSmart{
+                  background: rgba(0,0,0,0.2);
+                  margin-left:5px;
+                  margin-right:5px;
+                  margin-top:5px;
+                  padding-top:10px;
+                  padding_bottom:10px;
+                  margin-bottom:5px;
+               }
+#CatchAir{
+           background: rgba(0,0,0,0.2);
+           margin-top:5px;
+                  margin-bottom:5px;
+           margin-left:5px;
+
+                  margin-right:5px;
+           padding-top:10px;
+                  padding_bottom:10px;
+         }
+#TotalBillCalculator{
+                       background: rgba(0,0,0,0.2);
+                       margin-top:5px;
+                  margin-bottom:5px;
+                  margin-left:5px;
+                  margin-right:5px;
+                  padding-top:10px;
+                  padding_bottom:10px;
+                    }
+#LoveMate{
+
+           background: rgba(0,0,0,0.2);
+           margin-top:5px;
+                  margin-bottom:5px;
+           margin-left:5px;
+                  margin-right:5px;
+           padding-top:10px;
+                  padding_bottom:10px;
+         }
+#TemplesOfGuwahatiCity{
+                       background: rgba(0,0,0,0.2);
+                       margin-top:5px;
+                  margin-bottom:5px;
+                   margin-left:5px;
+                  margin-right:5px;
+                  padding-top:10px;
+                  padding_bottom:10px;
+                      }
+#ValentinesDayBooster{
+                        background: rgba(0,0,0,0.2);
+                        margin-top:5px;
+                  margin-bottom:5px; 
+                  margin-left:5px;
+                  margin-right:5px;
+                  padding-top:10px;
+                  padding_bottom:10px;
+                     }
+
+#contect{
+        
+         float:right;
+         width:600px;
+        }
+
+#footer{            
+        position:relative;
+        margin-top:10px;
+        height:20px;
+        font-family: serif;
+        width:100%;
+        color:rgba(255,255,255,0.5);
+        background: rgba(0,0,0,0.2);
+       
+        text-align:center; 
+        clear:both;
+       }  

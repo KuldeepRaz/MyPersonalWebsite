@@ -1,0 +1,208 @@
+
+html{
+     background:url("images/index.jpg") no-repeat center center fixed;
+                    -webkit-background-size:cover;
+                    -moz-background-size:cover;
+                    -o-background-size:cover;
+                    background-size: cover;
+                   
+                    
+    }
+body{
+     
+     font-family: Verdana, Geneva, Arial, sans-serif;
+     color:white;    
+     text-decoration:none;
+     line-height:1.6em;
+    
+    }
+#wrap{min-height:100%;}
+ 
+h1 {
+     
+     color: #007D8F;
+     font-size:170%; 
+   }
+h2 
+   { color: white;
+     font-size:150%;
+     text-decoration:underline;
+     text-align:center;
+     line-height:1.6em;
+   }
+h3 
+   {
+   
+   color:white; 
+   text-align:center;
+   }
+#all{
+     width:1200px;
+     padding-top:    5px;        
+     padding-bottom: 5px; 
+     margin-left:  auto;        
+     margin-right: auto; 
+
+
+    }
+
+a:link{
+                      color:white;
+                      border-bottem:none;
+                      text-decoration:none;
+                     }
+
+a:visited{
+                        color:white;
+                        border-bottem:none;
+                        text-decoration:none;
+                       }  
+a: hover{
+          color:red;
+        }                        
+
+
+#header { 
+           background-image:url("images/flyhigh1.jpg");
+           background-image-height:632px;
+           background-size: 100% 100%;
+           background-repeat:no-repeat;
+           margin-left:0px;
+           margin-right:0px;
+          
+                       
+         }  
+#bottomheader{      text-align:center;
+                    width:100%;
+                    background: rgba(0,0,0,0.2);
+                    margin-top:0px;
+                    margin-bottom:5px;
+                  }   
+
+table{
+     }
+th{
+   
+  
+  }
+
+#home{
+          width:455px;
+         
+          color: black;
+          background:rgba(0,0,0,0.5);
+         }
+
+li{
+   color:#E43938;
+  }
+ 
+li span{
+           color: white;
+        text-decoration:none;
+        
+       }
+
+
+
+
+
+
+
+
+
+#bottomheader a:link{
+                      color:white;
+                      border-bottem:none;
+                      text-decoration:none;
+                     }
+
+#bottomheader a:visited{
+                        color:white;
+                        border-bottem:none;
+                        text-decoration:none;
+                       }                          
+
+                    
+
+
+#projects{
+          width:450px;
+          height:100%;
+          float:left;
+      
+          background: rgba(0,0,0,0.2);
+          text-align:center;
+          margin-top:10px;
+          margin-left:10px;
+          margin-right:10px;
+        
+         }
+
+#pickme { width:300px;
+          float:right;
+          background: rgba(0,0,0,0.2);
+          text-align:center;
+          margin-top:10px;
+          margin-left:10px;
+          margin-right:10px;
+        }
+#main{
+      overflow:auto;
+      padding-bottom:180px;
+      line-height:1em;
+      
+      text-decoration:none;
+      background: rgba(0,0,0,0.2);
+      margin-top:14.5px;
+      margin-left:460px;
+      margin-right:310px;   
+      }
+span.who{
+         
+         
+         color:#E43938; 
+         font-size:150%;
+         
+         text-align:center;
+        }
+
+span.aboutme{
+        font-size:100%;
+        color:white;
+        font-family:serif;
+        text-decoration:none;
+        text-align:center;
+       }
+
+#me{
+    text-align:center;
+    line-height:1.2em;
+   }
+#sayhello
+         {
+           text-align:center;
+           text-decoration:underline;
+          
+           font-size:170%; 
+           color: #007D8F;
+         }
+#description{
+             font-family: Verdana, Geneva, Arial, sans-serif;
+             color:white;  
+             text-decoration:none;
+             line-height:1.6em;
+            }
+
+#footer{            
+        text-align:center;
+        width:100%;
+        font-family: serif;
+        background: rgba(0,0,0,0.2);
+        color:rgba(255,255,255,0.5);
+        clear:both;
+                    
+       }   
+          
+              
+             
